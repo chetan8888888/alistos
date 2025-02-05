@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    
+} 
+.tag{
+    width: 25%;
+    margin-top: 1%;
+}
+.nav{
+    position: absolute;
+    top: 6%;
+    right: 15%;
+    word-spacing: 22px;
+}
+li{
+    display: inline-block;
+    color: burlywood;
+
+   
+}
+.text1{
+    margin-left: 16%; 
+    margin-top: 3%;   
+}
+h3{
+    font-size: 22px;
+}
+p{
+    font-size: 18px;
+}
+.text2{
+    position: absolute;
+    top: 85%;
+    margin-left: 45%;
+    margin-top: 3%;
+}
+.text3{
+    position: absolute;
+    top: 85%;
+    margin-left: 73%;
+    margin-top: 3%;
+}
+.ourcolections{
+    height: 150%;
+    width: 100%;
+    background: lavenderblush;
+}
+#akki2{
+    border-top-left-radius: 170px;
+    border-top-right-radius: 170px;
+    width: 22%;
+    position: absolute;
+    top: 119%; 
+    left: 37%;
+}
+#akki3{
+    border-top-left-radius: 170px;
+    border-top-right-radius: 170px;
+    width: 22%;
+    position: absolute;
+    top: 119%; 
+    left: 60%;
+}
+#akki4{
+    border-bottom-left-radius: 170px;
+    border-bottom-right-radius: 170px;
+    width: 22%;
+    position: absolute;
+    top: 179%; 
+    left: 17%;
+    
+}
+#akki5{
+    border-bottom-left-radius: 170px;
+    border-bottom-right-radius: 170px;
+    width: 22%;
+    position: absolute;
+    top: 179%; 
+    left: 40%;
+    
+}
+#our{
+    position: absolute ;
+    top: 149%;
+    left:29% ;
+    font-size: 60px;
+    color:burlywood ;
+}
+p2{
+    position: absolute ;
+    top: 159%;
+    left:19% ;
+    font-size: 60px;
+    color: burlywood;
+}
+.feature{
+    height: 120%;
+    width: 100%;
+}
+h5{
+    text-align: center;
+    font-size: 42px;
+    margin-top: 3%;
+    color: burlywood;
+}
+#akki6{
+   
+    width: 22%;
+    position: absolute;
+    top: 270%; 
+    left: 16%;
+    
+}
+#akki7{
+   
+    width: 22%;
+    position: absolute;
+    top: 270%; 
+    left: 39%;
+    
+}
+#akki8{
+   
+    width: 22%;
+    position: absolute;
+    top: 270%; 
+    left: 62%;
+    
+}
+#akki9{
+   
+    width: 22%;
+    position: absolute;
+    top: 320%; 
+    left: 16%;
+    
+}
+#akki10{
+   
+    width: 22%;
+    position: absolute;
+    top: 320%; 
+    left: 39%;
+    
+}
+#akki11{
+   
+    width: 22%;
+    position: absolute;
+    top: 320%; 
+    left: 62%;
+    
+}
+button{
+    position: absolute;
+    top: 370%;
+    left: 45%;
+    width: 8%;
+    height: 5%;
+    color: white;
+    background: burlywood;
+    font-size: 23px;
+    border-radius: 44px;
+
+}
+p3{
+   position: absolute; 
+   top: 380%;
+   left: 40%;
+   font-size: 33px;
+   font-weight: bold;
+   color: burlywood;
+}
+#ali{
+    position: absolute; 
+   top: 390%;
+   left: 20%;
+   border-radius: 133px;
+   height: 91px;
+}
+p4{
+    position: absolute; 
+    top: 394.5%;
+    left: 27%;
+    font-size: 19px;
+}
+#alisto1{
+    position: absolute;
+    height: 52%;
+    width: 20%;
+    top: 404%;
+    left: 12%;
+}
+#alisto2{
+    position: absolute;
+    height: 52%;
+    width: 20%;
+    top: 404%;
+    left: 32.5%;
+}
+#alisto3{
+    position: absolute;
+    height: 52%;
+    width: 20%;
+    top: 404%;
+    left: 53%;
+}
+#alisto4{
+    position: absolute;
+    height: 52%;
+    width: 20%;
+    top: 404%;
+    left: 73.5%;
+}
+#b{
+    position: absolute;
+    top: 458%;
+    left: 41%;
+    width: 10%;
+    height: 5%;
+    color: white;
+    background: burlywood;
+    font-size: 12px;
+    
+
+}
+#b1{
+    position: absolute;
+    top: 458%;
+    left: 52%;
+    width: 15%;
+    height: 5%;
+    color: white;
+    background: burlywood;
+    font-size: 12px;
+}
